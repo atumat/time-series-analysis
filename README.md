@@ -31,16 +31,16 @@ This repository contains implementations of deep learning models for time series
 - Statistical and Deep learning models (LSTM, GRU, Transformers) for forecasting.
 - Visualization tools for model performance.
 
-## 🧮 Statistical Models
+##  Statistical Models
 
-### ✅ ARIMA (AutoRegressive Integrated Moving Average)
-- Captures autocorrelation in data
-- Best for univariate, linear, stationary time series
+- **ARIMA (AutoRegressive Integrated Moving Average)**
+- **Captures autocorrelation in data**
+- **Best for univariate, linear, stationary time series**
 
-### ✅ SARIMA (Seasonal ARIMA)
+SARIMA (Seasonal ARIMA)
 - Extends ARIMA for seasonal trends
 
-### ✅ GARCH (Generalized Autoregressive Conditional Heteroskedasticity)
+GARCH (Generalized Autoregressive Conditional Heteroskedasticity)
 - Models volatility in financial time series 
 
 ---
