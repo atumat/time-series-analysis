@@ -15,12 +15,10 @@ This repository contains implementations of deep learning models for time series
 ##  Table of Contents
 
   - [Introduction](#-introduction)
-  - [Types of Time Series Analysis](#-types-of-time-series-analysis)
   - [Statistical Models](#-statistical-models)
   - [Machine Learning Models](#-machine-learning-models)
   - [Deep Learning Models](#-deep-learning-models)
   - [Tools & Libraries](#️-tools--libraries)
-  - [Project Structure](#-project-structure)
   - [Results & Visualizations](#-results--visualizations)
   - [Future Work](#-future-work)
 
