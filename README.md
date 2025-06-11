@@ -1,4 +1,4 @@
-#Time Series Analysis 
+<h1>Time Series Analysis using Deep learning </h1>
 <p align="center"> <img src="https://img.shields.io/badge/domain-time%20series%20forecasting-blue" /> <img src="https://img.shields.io/badge/methods-Statistical%20%7C%20ML%20%7C%20DL-green" /> <img src="https://img.shields.io/badge/status-In progress%20-important" /> </p>
 
 Time series data is everywhere, from financial markets and weather conditions to stock trading and server logs. My analysis explores a complete pipeline of time series analysis and forecasting using the three different ways:
