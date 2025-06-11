@@ -12,17 +12,17 @@ Deep Learning
 The project aims to give a modular, extensible, and practical foundation for time series projects in both academia and industry.
 This repository contains implementations of deep learning models for time series analysis, including LSTM, GRU, and Transformer models. It focuses on forecasting tasks such as stock price prediction.
 
-## 📌 Table of Contents
+##  Table of Contents
 
-- [📘 Introduction](#-introduction)
-- [📊 Types of Time Series Analysis](#-types-of-time-series-analysis)
-- [🧮 Statistical Models](#-statistical-models)
-- [🧠 Machine Learning Models](#-machine-learning-models)
-- [🤖 Deep Learning Models](#-deep-learning-models)
-- [🛠️ Tools & Libraries](#️-tools--libraries)
-- [📂 Project Structure](#-project-structure)
-- [📈 Results & Visualizations](#-results--visualizations)
-- [🚀 Future Work](#-future-work)
+- [ Introduction](#-introduction)
+- [Types of Time Series Analysis](#-types-of-time-series-analysis)
+- [Statistical Models](#-statistical-models)
+- [Machine Learning Models](#-machine-learning-models)
+- [Deep Learning Models](#-deep-learning-models)
+- [Tools & Libraries](#️-tools--libraries)
+- [Project Structure](#-project-structure)
+- [Results & Visualizations](#-results--visualizations)
+- [Future Work](#-future-work)
 
 
 
