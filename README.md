@@ -47,18 +47,17 @@ This repository contains implementations of deep learning models for time series
 
 ##  Machine Learning Models
 
-- **Random Forest Regressor**
-- **XGBoost Regressor**
-- **Support Vector Regressor (SVR)**
+- **Random Forest**
+- **XGBoost**
+- **Support Vector Machine**
 
 
 ---
 
 ##  Deep Learning Models
 
-###  LSTM (Long Short-Term Memory)
-
-###  GRU & Bi-LSTM
+- **LSTM (Long Short-Term Memory)**
+- **GRU & Bidirectional-LSTM**
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*vYpKL1PjVPjLbU7S6xKkYg.gif" width="500"/>
