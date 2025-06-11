@@ -31,3 +31,46 @@ This repository contains implementations of deep learning models for time series
 - Statistical and Deep learning models (LSTM, GRU, Transformers) for forecasting.
 - Visualization tools for model performance.
 
+## 🧮 Statistical Models
+
+### ✅ ARIMA (AutoRegressive Integrated Moving Average)
+- Captures autocorrelation in data
+- Best for univariate, linear, stationary time series
+
+### ✅ SARIMA (Seasonal ARIMA)
+- Extends ARIMA for seasonal trends
+
+### ✅ GARCH (Generalized Autoregressive Conditional Heteroskedasticity)
+- Models volatility in financial time series (e.g. stock returns)
+
+---
+
+## 🧠 Machine Learning Models
+
+### 🔹 Feature Engineering
+- Lag features
+- Rolling mean/variance
+- Date-based features (month, day, hour)
+
+### 🔹 Models Used
+- **Random Forest Regressor**
+- **XGBoost Regressor**
+- **Support Vector Regressor (SVR)**
+
+> These models work well when temporal patterns are captured through engineered features.
+
+---
+
+## 🤖 Deep Learning Models
+
+### 🔸 LSTM (Long Short-Term Memory)
+- Retains long-range dependencies
+- Effective in sequential and nonlinear data
+
+### 🔸 GRU & Bi-LSTM
+- Faster training with comparable accuracy
+- Bidirectional context understanding
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*vYpKL1PjVPjLbU7S6xKkYg.gif" width="500"/>
+</p>
