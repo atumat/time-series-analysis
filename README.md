@@ -36,8 +36,6 @@ This repository contains implementations of deep learning models for time series
 
 - **ARIMA (AutoRegressive Integrated Moving Average)**
 
-
-
 - **SARIMA (Seasonal ARIMA)**
 
 - **GARCH (Generalized Autoregressive Conditional Heteroskedasticity)**
